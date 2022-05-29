@@ -78,7 +78,7 @@ Copy file to google drive for ubuntu LTS 18.04
 # Known Issues
 - Not able to set max age
 - Not able to automaticlly run the script by crontab
-- If use apt-get rclone will not see directories in "shared with me"
+- If use apt-get rclone will not see directories and files in "shared with me"
 
 ---------------------------------------------------------------
 ## upload v0.1 (2022.05.24)
